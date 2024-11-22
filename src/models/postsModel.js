@@ -1,4 +1,5 @@
 import 'dotenv/config';
+//isso é um comentário teste para o git
 import { ObjectId } from "mongodb";
 //o conectarAoBanco é uma função que está no src/config. Ela é responsável por fazer a conexão com o MongoDB da nuvem.
 import conectarAoBanco from "../config/dbConfig.js";
